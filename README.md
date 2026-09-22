@@ -28,7 +28,9 @@ _이탤릭체_
 
 [경북대학교 홈페이지](https://www.knu.ac.kr)
 
-![다이어그램 이미지](diagram.png)
+![외부이미지(호반우)](https://www.knu.ac.kr/wbbs/img/intro/new_ch_basic.png)
+
+![내부이미지(다이어그램파일)](diagram.png)
 
 
 
